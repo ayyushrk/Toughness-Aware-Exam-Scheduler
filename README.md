@@ -58,3 +58,9 @@ Make sure you have Python 3.8 or higher installed on your machine. You will also
    - Click **Add Course**.
 3. **Edit Details:** Need to change a course's semester or toughness later? Use the **Edit Existing Course** section in the sidebar.
 4. **View Timetable:** Instantly inspect the generated valid timetable, matrix calendar, and stress metrics in the main view tabs!
+
+## 👥 Contributors
+- [@ARJYUN](https://github.com/ARJYUN)
+- [@abhinav-v-r](https://github.com/abhinav-v-r)
+- [@adarsh-k-10](https://github.com/adarsh-k-10)
+- [@ardraar06](https://github.com/ardrar06)
