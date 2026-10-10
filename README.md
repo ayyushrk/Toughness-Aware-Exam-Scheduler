@@ -64,3 +64,4 @@ Make sure you have Python 3.8 or higher installed on your machine. You will also
 - [@abhinav-v-r](https://github.com/abhinav-v-r)
 - [@adarsh-k-10](https://github.com/adarsh-k-10)
 - [@ardraar06](https://github.com/ardrar06)
+- [@ayyushrk](https://github.com/ayyushrk)
